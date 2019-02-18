@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{705B1515-3942-4301-A3D9-E9939604D85A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToeKable.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.913EE7D7-0C59-4FC7-A183-F0D9940B7C6D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeKable/BoardPage.xaml.cs">
+    <Files>
+      <File FileName="TicTacToeKable/MainPage.xaml.cs" Line="19" Column="1" />
+      <File FileName="TicTacToeKable/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="TicTacToeKable/BoardPage.xaml" Line="17" Column="83" />
+      <File FileName="TicTacToeKable/BoardPage.xaml.cs" Line="94" Column="14" />
+      <File FileName="TicTacToeKable.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TicTacToeKable.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="93" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="79" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="65" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="107" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="121" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="135" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="149" column="1" />
+      <Breakpoint enabled="false" file="/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/BoardPage.xaml.cs" relfile="TicTacToeKable/BoardPage.xaml.cs" line="163" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

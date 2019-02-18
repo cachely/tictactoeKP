@@ -1,0 +1,13 @@
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.csprojAssemblyReference.cache
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/BoardPage.xaml.g.cs
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.csproj.CoreCompileInputs.cache
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.AssemblyInfoInputs.cache
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.AssemblyInfo.cs
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.dll
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/TicTacToeKable.pdb
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/bin/Debug/netstandard2.0/TicTacToeKable.deps.json
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/bin/Debug/netstandard2.0/TicTacToeKable.dll
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/bin/Debug/netstandard2.0/TicTacToeKable.pdb
+/Users/ashleyp/Projects/TicTacToeKable/TicTacToeKable/obj/Debug/netstandard2.0/XamlC.stamp
